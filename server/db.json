@@ -1,0 +1,28 @@
+{
+	"posts" : [
+		{
+			"id":1,
+			"title":"hello",
+			"lastReply":"2 sec ago"
+		},
+		{
+			"id":2,
+			"title":"hello world",
+			"lastReply":"30 sec ago"
+		},
+		{
+ 			"id":3,
+			"title":"hellos",
+			"lastReply":"4 sec ago"
+		}
+	],
+	"users":[
+		{
+			"name" : "neeraj",
+			"avatar" :  "x.jpg"
+		},{
+			"name" : "anonymous",
+			"avatar" :  "y.jpg"
+		}
+	]
+}
